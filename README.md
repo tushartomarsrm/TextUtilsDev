@@ -1,6 +1,7 @@
 # Text Utility App
 
 This is a simple web application built using React that provides various text manipulation functionalities.
+Check it out here - [Click Me](https://textutilsdevwebapp.netlify.app/)
 
 ## Features
 
