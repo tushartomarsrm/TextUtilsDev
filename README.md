@@ -20,12 +20,4 @@ This is a simple web application built using React that provides various text ma
 - **Clear Text**: Clear the input and output text areas.
 
 ## Usage
-
-1. Create a react templpate using vite@latest
-2. Install dependencies by running `npm install`.
-3. Replace this files with your files
-4. Start the development server by running `npm start`.
-
-## Build production app
-
-npm run build
+Start the development server by running 'npm run dev'
